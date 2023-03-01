@@ -1,6 +1,15 @@
 # Toast Component Project
 
-## Joy of React, Project II
+## Joy of React, Project II - Pablo Grotto
+_________________
+
+
+Project 2 from Joy of React Course. I made all the original goals but the accesibility ones.
+
+Below is the original README.
+_____________________________
+
+
 
 In this project, we'll dive deep into the implementation of a single common UI component: A `<Toast>` message component.
 
